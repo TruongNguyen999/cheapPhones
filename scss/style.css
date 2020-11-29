@@ -182,7 +182,7 @@ body {
 @media (min-width: 640px) {
   body div .carousel-product {
     height: 400px;
-    background-color: #39035B;
+    background-color: rgba(82, 64, 120, 0.9);
   }
   body div .carousel-product .slides-product {
     width: 70%;
